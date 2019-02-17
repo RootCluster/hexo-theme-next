@@ -88,6 +88,6 @@ copy`<your blog>/themes/next/`路径下`_config.yml`的内容到`<your blog>/sou
       cdn: //cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js
   ```
 
-## ??
+## 更新
 * 具体操作查看[Git 子仓库管理](https://incoder.org/2018/05/17/git-sub/#git-subtree-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-%E9%87%8D%E7%82%B9)
 * [Github上fork项目后保持与源项目更新](https://segmentfault.com/a/1190000008401427)

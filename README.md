@@ -33,7 +33,7 @@
 在你的hexo项目中，安装已集成好的[NexT](https://github.com/RootCluster/hexo-theme-next)主题
 ```bash
 # 在你的 blog 根目录下执行
-git clone https://github.com/theme-next/hexo-theme-next themes/next
+git clone https://github.com/RootCluster/hexo-theme-next.git themes/next
 ```
 
 ### 个性化配置
